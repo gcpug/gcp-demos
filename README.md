@@ -39,7 +39,8 @@ wp-startup-3.sh
   
 作成されたアカウントで以下のようなコマンドで接続出来ることを確認。  
 >mysql -u test -p -h 173.194.106.46  
-接続できたらデータベース作成    
+
+接続できたらデータベース作成  
 >create database wptest;  
 
 ####6.Wordpressのインストール  
