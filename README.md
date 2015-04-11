@@ -3,6 +3,9 @@
 Googleアカウントがあって、GCPの課金設定までは終了していることを前提とする。
 
 #wp-demo
+ComputeEngine + CloudSQLでWordpressを構築するデモ・ハンズオンです。
+慣れた方であれば10分かからないでしょう。
+
 ####1.サーバ準備
 Devコンソールからn1-standard-1Ubuntu最新版インスタンスをアジアで立ち上げる。 
 以下で最新化して、gitを入れる  
