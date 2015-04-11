@@ -13,6 +13,7 @@ Devコンソールからn1-standard-1Ubuntu最新版インスタンスをアジ�
 ####2.ハンズオン資料取得
 このフォルダを取得しましょう。
 >git clone https://github.com/gcpug/gcp-demos  
+>cd gcp-demos/wp-startup  
 
 ####3.gcp-demos/wp-startup
 wp-startup-1.sh  
