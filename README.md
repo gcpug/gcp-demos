@@ -6,9 +6,9 @@ Googleアカウントがあって、GCPの課金設定までは終了してい�
 ####1.サーバ準備
 Devコンソールからn1-standard-1Ubuntu最新版インスタンスをアジアで立ち上げる。 
 以下で最新化して、gitを入れる  
->sudo apt-get update  
->sudo apt-get upgrade  
->sudo apt-get install git  
+>sudo apt-get update -y  
+>sudo apt-get upgrade -y  
+>sudo apt-get install -y git
 
 ####2.ハンズオン資料取得
 このフォルダを取得しましょう。
