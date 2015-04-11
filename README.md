@@ -10,7 +10,8 @@ Devコンソールからn1-standard-1Ubuntu最新版インスタンスをアジ�
 >sudo apt-get upgrade  
 >sudo apt-get install git  
 
-####2.ハンスON資料取得
+####2.ハンズオン資料取得
+このフォルダを取得しましょう。
 >git clone https://github.com/gcpug/gcp-demos  
 
 ####3.gcp-demos/wp-startup
