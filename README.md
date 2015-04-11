@@ -3,17 +3,17 @@
 Googleアカウントがあって、GCPの課金設定までは終了していることを前提とする。
 
 #wp-demo
-##1.サーバ準備
+###1.サーバ準備
 Devコンソールからn1-standard-1Ubuntu最新版インスタンスをアジアで立ち上げる。 
 以下で最新化して、gitを入れる  
 >sudo apt-get update  
 >sudo apt-get upgrade  
 >sudo apt-get install git  
 
-##2.ハンスON資料取得
+####2.ハンスON資料取得
 >git clone https://github.com/gcpug/gcp-demos  
 
-##3.gcp-demos/wp-startup
+#####3.gcp-demos/wp-startup
 wp-startup-1.sh  
 を実行する。  
 →実行したら、管理コンソールのIPをクリックして、Ubuntuのデフォルト画面が表示されていることを確認する。  
