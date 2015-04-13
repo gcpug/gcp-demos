@@ -2,7 +2,7 @@
 #事前準備
 Googleアカウントがあって、GCPの課金設定までは終了していることを前提とする。
 
-#wp-demo
+#wp-startup
 ComputeEngine + CloudSQLでWordpressを構築するデモ・ハンズオンです。
 慣れた方であれば10分かからないでしょう。
 
